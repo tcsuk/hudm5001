@@ -1,8 +1,8 @@
 #######################################
 Defining and Working with a Stock Class
-University of Virginia
+
 Programming for Data Science
-Last Updated: April 2, 2021
+Last Updated: Jan 16, 2023
 #######################################
 
 INSTRUCTIONS

@@ -14,7 +14,7 @@ Youmi Suk
 ysuk@tc.columbia.edu 
 
 **Teaching Assistant**  
-Rachel Lee 
+Rachel Lee   
 yl3751@tc.columbia.edu
 
 When emailing the professor or TAs: Please remember to include "HUDM5199" in your email subject line.
@@ -86,9 +86,9 @@ A = Programming Assignments, Q = Quizzes
 | Week 16 | May 2	|  Final Project | Final Report
 
 ### Important Dates  
-Date of First Live Session: Jan 17, 2023
+Date of First Live Session: Jan 17, 2023  
 Date of Last Live Session: Apr 25, 2023 (final meeting day)  
-Midterm Presentation Date: Apr 11, 2023 
+Midterm Presentation Date: Apr 11, 2023  
 Semester Project Due Date: May 4, 2023 at 11:59 pm
 
 ### Programming Assignments, Quizzes, the Midterm, and the Final Project

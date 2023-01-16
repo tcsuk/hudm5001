@@ -49,7 +49,7 @@
 
 **RUBRIC**  
 
-Total Points = 50 
+Total Points = 60 
 
 |Assignment |Description |Possible Points|
 --- | --- |:---:|

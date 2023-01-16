@@ -105,7 +105,7 @@ There will be several quizzes throughout the semester that will assess your know
 
 The instructor will place you into a group of 3-4 students. Your group will give a presentation about one topic we’ve discussed in the course. The instructor will provide a list of presentation topics, and each group needs to choose one topic. The midterm presentation is a 7-min oral presentation about the chosen topic, and it should consist of explaining one or two concepts/functions and demonstrating them with a few examples. You will also have to make three questions about the chosen topic for the quiz in the midterm week. You will use Jupyter Notebooks for the presentation and all the group members will present together on the presentation date. Be sure to practice beforehand, and time yourselves before you give the midterm presentation.
 
-*Final Projec*t*: 
+*Final Project*: 
 
  You will work with other students in the same group as for the midterm presentation. Pick a dataset that you and your group find interesting. Example sources are found below. Feel free to select your data from any other source as appropriate. 
 The final project should form a research question, and perform data pre-processing, data cleaning, outlier removal, and so on to sanitize your data as necessary. Explore your data to reveal interesting/useful information based on your project scenario, and create at least 2 visualizations that you find interesting/useful. Also, do at least one of the following, depending in your interests and background: (i) compute meaningful statistical quantities (e.g., means, correlations), (ii) perform a statistical test on the data (e.g., t-test), or (iii) fit a model to the data (e.g., regression).

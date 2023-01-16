@@ -1,0 +1,41 @@
+#######################################
+Defining and Working with a Stock Class
+University of Virginia
+Programming for Data Science
+Last Updated: April 2, 2021
+#######################################
+
+INSTRUCTIONS
+
+In this assignment you will define a class and perform the requested tasks.
+
+TOTAL POINTS: 10
+
+1. Read in the market data from apple_data.csv
+2. (5 PTS) Define a class with these requirements:
+  -class name: Stock
+  -contains attributes:
+     - ticker
+     - prices
+     - sector
+  -contains methods:
+     - print_sector()
+
+     - get_row_count()
+       count the number of rows in the price dataframe      
+       set an attribute "price_records" equal to this count
+ 
+  -contains __init__(ticker, prices, sector) to build objects 
+
+3. (1 PT) Using your class, create a stock with: 
+          ticker: 'AAPL', sector:'technology', prices: the imported price data
+          Use the dot operator to print the stock's ticker.
+             
+4. (1 PT) Use the print_sector() method to print the sector
+
+5. (2 PTS) Use the get_row_count() method to compute the number of price records and set price_records.
+           Use the dot operator to access the stock's price_records, printing the result.
+
+6. (1 PT) Compute the daily percent changes in the stock prices, 
+           saving the results into the dataframe, specificallly: aapl.prices['returns']
+           Print the first five rows of aapl.prices.

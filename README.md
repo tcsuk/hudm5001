@@ -3,7 +3,7 @@
 Spring 2023
 
 Lecture Times: Tues 1:00 pm - 2:40 pm, in-person  
-Note: All times mentioned throughout the Collab site and Syllabus are Eastern Time (US)
+Note: All times mentioned throughout the Canvas site and Syllabus are Eastern Time (US)
 
 Location: GDH 453	
 

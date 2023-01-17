@@ -25,7 +25,7 @@ This course is an introduction to essential programming concepts, structures, an
 At the end of the course, students will
 (1)	Be able to confidently work in an appropriate programming environment (IDE).
 (2)	Correctly describe basic Python language constructs and develop Python codes and write basic programs.
-(3)	Understand the versional control concepts and work on a data science project using GitHub and Python.
+(3)	Understand the version control concepts and work on a data science project using GitHub and Python.
 (4)	Create a portfolio showcasing your visualization skills. 
 
 

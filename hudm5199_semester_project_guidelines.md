@@ -1,4 +1,3 @@
-## HUDM5199 Semester Project
 
 ### Project Specifications:
 - The instructor will place you into a group of 3-4 students  

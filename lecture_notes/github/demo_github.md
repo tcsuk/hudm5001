@@ -49,8 +49,7 @@ You should be able to now see the commit in the GitHub repo.
 With our course repo: https://github.com/tcsuk/hudm5199
 
 When you want to sync your repo to the original repo, follow these steps:
-1) From the forked repo in your GitHub account, click Fetch upstream at the top right of the page.  
-   This syncs the fork with the original.
+1) From the forked repo in your GitHub account, choose the "Sync fork" dropdown. Review the details about the commits from the origianl repo, then click "Update branch." This syncs the fork with the original.
 
 2) Open terminal, change directory to your repo, and run:  
 
@@ -108,6 +107,6 @@ and that the original copy is upstream.
 If the merge fails, you likely altered your repo. Git will give suggestions on how to fix a merge conflict.
 
 **Notes:** 
-- the fetch + merge steps are equal to git pull, but the former is safer as a fetch will succeed in the event of a merge conflict
-- every repo has a `main`/`master` branch which is intended to be the active branch. developers can work on separate branches, and attempt to merge
+- The fetch + merge steps are equal to git pull, but the former is safer as a fetch will succeed in the event of a merge conflict
+- Every repo has a `main`/`master` branch which is intended to be the active branch. Developers can work on separate branches, and attempt to merge
   tested, useful code to the main/master branch.

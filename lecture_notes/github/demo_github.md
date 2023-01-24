@@ -31,7 +31,7 @@ When you are ready to commit your file(s), enter:
 
 `> git commit -m 'a message to describe what you are committing'`
 
-where `-m` denotes a message flag; the message must be in single quotes
+where `-m` denotes a message flag; the message must be in single or double quotes
 
 The committed files will now be tracked by `git`.
 

@@ -4,7 +4,7 @@ We will spend time in class on the following:
 1) forking a repo (this makes a copy in your GitHub account, which you can modify)  
 
 We will fork our course repo and the Apache Spark repo, which live here:
-https://github.com/DrSuk/ds2001_spring22  
+https://github.com/tcsuk/hudm5199  
 https://github.com/apache/spark
 
 2) cloning the forked repo to local machine (this copies the fork to your local)

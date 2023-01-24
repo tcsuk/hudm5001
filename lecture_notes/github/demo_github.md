@@ -49,7 +49,7 @@ You should be able to now see the commit in the GitHub repo.
 With our course repo: https://github.com/tcsuk/hudm5199
 
 When you want to sync your repo to the original repo, follow these steps:
-1) From the forked repo in your GitHub account, choose the "Sync fork" dropdown. Review the details about the commits from the origianl repo, then click "Update branch." This syncs the fork with the original.
+1) From the forked repo in your GitHub account, choose the "Sync fork" dropdown. Review the details about the commits from the original repo, then click "Update branch." This syncs the fork with the original.
 
 2) Open terminal, change directory to your repo, and run:  
 

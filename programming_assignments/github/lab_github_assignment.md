@@ -1,7 +1,7 @@
 ### GitHub Assignment
 
 Follow the instructions to accomplish the tasks below.  
-Complete the action items in **bold**, entering solutions into a file that you'll submit on Collab.  
+Complete the action items in **bold**, entering solutions into a file that you'll submit on Canvas.  
 A Word doc or equivalent will be suitable as you'll need to include images. Make sure your solutions are numbered and easy to read.
 
 #### TOTAL POINTS: 4

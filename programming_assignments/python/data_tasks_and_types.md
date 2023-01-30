@@ -57,5 +57,5 @@ https://www.w3schools.com/python/python_lists_comprehension.asp
  
 **SUBMISSION INSTRUCTIONS**  
 
-Save your python file and submit it through Collab. The file should have .py or ipynb extension. Be sure all answers are clearly shown.
-Ensure to include your name and UVA computing ID.
+Save your python file and submit it through Canvas. The file should have .py or ipynb extension. Be sure all answers are clearly shown.
+Ensure to include your name and TC UNI ID.

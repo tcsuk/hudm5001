@@ -33,6 +33,6 @@ Each item is worth 1 PT, for **TOTAL 10 POINTS**:
 
 5) Save the script and run from command line (e.g., using Anaconda Prompt)
 
-6) Screen shot the results, paste into document, and submit through Collab
+6) Screen shot the results, paste into document, and submit through Canvas
 
 Be sure that all solutions are in the submitted document.

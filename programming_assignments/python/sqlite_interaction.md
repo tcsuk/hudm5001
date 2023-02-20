@@ -2,7 +2,7 @@
 Last updated: Jan 15, 2023  
 
 **Instructions**  
-Follow the instructions below. Copy all questions, code, and output into a document and submit through Collab.  
+Follow the instructions below. Copy all questions, code, and output into a document and submit through Canvas.  
 A document in Word format is suggested, as you will include screenshots of your results.  
 
 **TOTAL POINTS: 10**

@@ -25,29 +25,29 @@ Download SQLite here:
 https://www.sqlite.org/download.html
 
    Windows users will install:
-   sqlite-tools-win32-x86-3360000.zip
+   sqlite-tools-win32-x86-3400100.zip
 
    Mac users will install:
-   sqlite-tools-osx-x86-3360000.zip
+   sqlite-tools-osx-x86-3400100.zip
 
 After install, launch terminal (Windows users use CMD)
 From terminal, cd to sqlite
 
 For example on my Mac machine, I put it here:
-/Users/youmisuk/sqlite
+/Users/ys2952/sqlite
 
 At prompt, create db called stocks
 > sqlite3 stocks.db
 
 You will see something like this:
-SQLite version 3.35.4 2021-04-02 15:20:15
+SQLite version 3.38.2 2022-03-26 13:51:10
 Enter ".help" for usage hints.
 
 List the databases like this:
 sqlite> .databases
 
 You should see stocks.db listed. For example, I see:
-main: /Users/youmisuk/sqlite/stocks.db r/w
+main: /Users/ys2952/sqlite/stocks.db r/w
 
 Next, we will work in Python
 ------------------------------------------------------------------
@@ -64,7 +64,7 @@ stocks = [
 # connect to db
 
 # update with your path to the database
-path_to_db = "/Users/youmisuk/sqlite/stocks.db"    
+path_to_db = "/Users/ys2952/sqlite/stocks.db"    
 
 # create db connection
 conn = sqlite3.connect(path_to_db)

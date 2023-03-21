@@ -99,7 +99,7 @@ The programming assignments consist of focused exercises related to each week’
 
 *Quizzes*: 
 
-There will be several quizzes throughout the semester that will assess your knowledge of the various topics. Quizzes are based on the Jupyter Notebooks. All quizzes are mandatory for all students to take. Importantly, the quizzes should be done **“closed book”**: please refrain from consulting any resources including notes, books, the web, devices, or other external media. The same late assignment policy is applied: 15% of the total score will be deducted for every day. If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
+There will be several quizzes throughout the semester that will assess your knowledge of the various topics. Quizzes are based on the Jupyter Notebooks. All quizzes are mandatory for all students to take. Importantly, the quizzes should be done **“closed book”**: please refrain from consulting any resources including notes, books, the web, devices, or other external media. The same late assignment policy is applied: 10% of the total score will be deducted for every day. If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
 
 *Midterm*: 
 

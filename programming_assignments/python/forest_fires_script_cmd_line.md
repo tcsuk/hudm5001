@@ -9,7 +9,7 @@ In this assignment, you will:
 - screen shot your solutions into a document and submit thru Collab
 
 Here are the details:
-1) Start with the solutions from the Forest Fires assignment, found in Resources > Solutions > forest_fires_function_assignments_solns.ipynb
+1) Start with the solutions from the Forest Fires assignment, found in Files > forest_fires_function_assignments_solns.ipynb
 
 2) Copy all code into a script
 

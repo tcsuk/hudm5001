@@ -79,11 +79,7 @@ A = Programming Assignments, Q = Quizzes
 | Week 9 | Mar 14 |  Spring Recess | 
 | Week 10 | Mar 21	|  Recursion and Running From the Command Line | A, Q
 | Week 11 | Mar 28 |  Python Classes	| A, Q
-<<<<<<< HEAD
-| Week 12 | Apr 4 |  **Unit Testing and Exception Handling** | A, Q
-=======
 | Week 12 | Apr 4 |  **Unit Testing and Exception Handling** | A, Midterm Presentation Slides
->>>>>>> 63dabdf16ae72bab7a4fb06082f93fd8e8639b0b
 | Week 13 | Apr 11 | Jupyter Notebook Presentation (Midterm) | Q
 | Week 14 | Apr 18	| **Data Visualization: Matplotlib, Scikit-learn, and Plotly**   | A, Q
 | Week 15 | Apr 25	| **Dash** | A, Q

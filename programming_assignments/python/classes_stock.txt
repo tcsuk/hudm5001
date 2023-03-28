@@ -2,12 +2,12 @@
 Defining and Working with a Stock Class
 
 Programming for Data Science
-Last Updated: Jan 16, 2023
+Last Updated: March 27, 2023
 #######################################
 
 INSTRUCTIONS
 
-In this assignment you will define a class and perform the requested tasks.
+In this assignment you will define a class and perform the requested tasks. Please include both the Python code and the corresponding outputs in either a Python script or a Jupyter notebook, and then submit your work on Canvas.
 
 TOTAL POINTS: 10
 
@@ -37,5 +37,8 @@ TOTAL POINTS: 10
            Use the dot operator to access the stock's price_records, printing the result.
 
 6. (1 PT) Compute the daily percent changes in the stock prices, 
-           saving the results into the dataframe, specificallly: aapl.prices['returns']
-           Print the first five rows of aapl.prices.
+           saving the results into the dataframe, specificallly: aapl.prices['returns'].
+           Print out the first five rows of the aapl.prices dataframe. 
+           
+           Note that in this instance, we've referred to the stock object as 'aapl,' 
+           but feel free to name it whatever you prefer.

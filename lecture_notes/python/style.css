@@ -1,0 +1,28 @@
+/* Set font family and size for the entire page */
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  background-color:#f0f0de;
+}
+
+/* Set color and font size for the header section */
+#header-section {
+    background-color: rgb(14, 40, 53);
+    height: 116px;
+    padding-top: 24px;
+}
+
+/* Set color and font size for the header title */
+#header-title {
+    color: #fef4f4;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/* Set color and font size for the header subtitle */
+#header-subtitle {
+    color: #fef4f4;
+    text-align: center
+}

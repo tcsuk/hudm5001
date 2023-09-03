@@ -2,7 +2,7 @@
 
 Fall 2023
 
-Lecture Times: Tues 11:00 pam - 2:40 pm, in-person  
+Lecture Times: Tues 11:00 am - 12:40 pm, in-person  
 Note: All times mentioned throughout the Canvas site and Syllabus are Eastern Time (US)
 
 Location: GD 277
@@ -98,7 +98,7 @@ Semester Project Due Date: Dec 18, 2023 at 11:59 pm
 
 *Programming Assignments*: 
 
-The programming assignments consist of focused exercises related to each week’s lectures. You are encouraged to first try to complete the homework by yourself. If you work with others, please make sure that you understand all of the work, and that your final submission is your own work. The assignments will be uploaded on GitHub no later than Tuesday and will be due the following Monday at 11:59pm, EST. The total possible points for each assignment will vary, and specific grading criteria will be provided with each assignment. Our TA/CA will view students’ submissions and make comments on them. Assignments are expected to be completed by due dates. Assignments that are turned in late will be subject to the following penalty: 10% of the total score will be deducted for every day. An assignment with the lowest score will be dropped when computing the final score at the end of the semester.
+The programming assignments consist of focused exercises related to each week’s lectures. You are encouraged to first try to complete the homework by yourself. If you work with others, please make sure that you understand all of the work, and that your final submission is your own work. The assignments will be uploaded on GitHub no later than Tuesday and will be due the following Monday at 11:59pm, EST. The total possible points for each assignment will vary, and specific grading criteria will be provided with each assignment. Our TA will view students’ submissions and make comments on them. Assignments are expected to be completed by due dates. Assignments that are turned in late will be subject to the following penalty: 10% of the total score will be deducted for every day. An assignment with the lowest score will be dropped when computing the final score at the end of the semester.
 
 *Quizzes*: 
 

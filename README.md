@@ -20,7 +20,8 @@ sz2686@tc.columbia.edu
 When emailing the professor or TAs: Please remember to include "HUDM5199" in your email subject line.
 
 ## Course Overview and Learning Outcomes: 
-This course is an introduction to essential programming concepts, structures, and techniques for data science. Topics covered will include data types, data structures, control statements, and functions, with NumPy and Pandas libraries in programming language Python. GitHub for version control will also be covered. Additionally, content on the development of interactive plots and dashboards using Plotly and Shiny libraries will be included. 
+This course is an introduction to essential programming concepts, structures, and techniques for data science. Topics covered include data types, data structures, control statements, and functions, using the NumPy and Pandas libraries in the programming language Python. The course also covers version control using GitHub and database management using SQLite. Additionally, content on the development of interactive plots and dashboards using Plotly and Dash libraries will be included.
+
 
 At the end of the course, students will
 (1)	Be able to confidently work in an appropriate programming environment (IDE).
@@ -60,7 +61,9 @@ Freely available through the library: https://learning.oreilly.com/library/view/
     - lambda functions
     - running scripts at the command line
     - classes
-
+    - unit testing
+- Python Data Visualization
+    - Matplotlib, Plotnine, Plotly, and Dash 
 
 ## Schedule of Topics and Assignments
 

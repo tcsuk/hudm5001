@@ -1,11 +1,11 @@
 ## Syllabus: HUDM 5199 – Programming for Data Science  
 
-Spring 2023
+Fall 2023
 
-Lecture Times: Tues 1:00 pm - 2:40 pm, in-person  
+Lecture Times: Tues 11:00 pam - 2:40 pm, in-person  
 Note: All times mentioned throughout the Canvas site and Syllabus are Eastern Time (US)
 
-Location: GDH 453	
+Location: GD 277
 
 ### Contact
 
@@ -14,8 +14,8 @@ Youmi Suk
 ysuk@tc.columbia.edu 
 
 **Teaching Assistant**  
-Rachel Lee   
-yl3751@tc.columbia.edu
+Sizheng Zhu   
+sz2686@tc.columbia.edu
 
 When emailing the professor or TAs: Please remember to include "HUDM5199" in your email subject line.
 
@@ -68,28 +68,28 @@ A = Programming Assignments, Q = Quizzes
 
 | Week 	| Date 	| Topics | Assignments
 |:---:	|:---:	|---	|---	| 
-| Week 1 | Jan 17 | Syllabus and the Shell | Q
-| Week 2 | Jan 24 | GitHub	| A
-| Week 3 | Jan 31 | Python Introduction: Data Types, Variables and Expressions | A, Q
-| Week 4 | Feb 7 |  Python Introduction: Operators, Input/Output, Numpy	| A
-| Week 5 | Feb 14 |  Python Introduction: Pandas 	| A, Q
-| Week 6 | Feb 21 |  Pandas, SQLite Database	| A, Q
-| Week 7 | Feb 28 |  Control Structures and Iterables | A, Q
-| Week 8 | Mar 7 |  Functions, Lambdas, List Comprehensions	| A, Q
-| Week 9 | Mar 14 |  Spring Recess | 
-| Week 10 | Mar 21	|  Recursion and Running From the Command Line | A, Q
-| Week 11 | Mar 28 |  Python Classes	| A, Q
-| Week 12 | Apr 4 |  **Unit Testing and Exception Handling** | A, Midterm Presentation Slides
-| Week 13 | Apr 11 | Jupyter Notebook Presentation (Midterm) | Q
-| Week 14 | Apr 18	| **Data Visualization: Matplotlib, Scikit-learn, and Plotly**   | A, Q
-| Week 15 | Apr 25	| **Dash** | A, Q
-| Week 16 | May 2	|  Final Project | Final Report
+| Week 1 | 9/5 | Syllabus and the Shell | Q, Pre-class Survey
+| Week 2 | 9/12 | GitHub	| A
+| Week 3 | 9/19 | Python Introduction: Data Types, Variables and Expressions | A, Q
+| Week 4 | 9/26 |  Python Introduction: Operators, Input/Output, Numpy	| A
+| Week 5 | 10/3 |  Python Introduction: Pandas 	| A, Q
+| Week 6 | 10/10 |  Pandas, SQLite Database	| A, Q
+| Week 7 | 10/17 |  Control Structures and Iterables | A, Q
+| Week 8 | 10/24 |  Functions, Lambdas, List Comprehensions	| A, Q
+| Week 9 | 10/31 |  Recursion and Running From the Command Line | A, Q
+| Week 10 | 11/7	|  College Holiday (Election Day) |
+| Week 11 | 11/14 |  Python Classes	| A, Q
+| Week 12 | 11/21 |  Unit Testing and Exception Handling | A, Midterm Presentation Slides
+| Week 13 | 11/28 | Jupyter Notebook Presentation (Midterm) | Q
+| Week 14 | 12/5	| Data Visualization: Matplotlib, Scikit-learn, and Plotly   | A, Q
+| Week 15 | 12/12	| Dash | A, Q
+| Week 16 | 12/19	|  Final Project | Final Report
 
 ### Important Dates  
-Date of First Live Session: Jan 17, 2023  
-Date of Last Live Session: Apr 25, 2023 (final meeting day)  
-Midterm Presentation Date: Apr 11, 2023  
-Semester Project Due Date: May 4, 2023 at 11:59 pm
+Date of First Live Session: Sep 5, 2023  
+Date of Last Live Session: Dec 12, 2023 (final meeting day)  
+Midterm Presentation Date: Nov 28, 2023  
+Semester Project Due Date: Dec 18, 2023 at 11:59 pm
 
 ### Programming Assignments, Quizzes, the Midterm, and the Final Project
 
@@ -131,6 +131,7 @@ For your final project, you will analyze real data and draw meaningful conclusio
     - students work on small and larger coding assignments, with assistance from instructor/TA/potentially their peers
     - the instructor reviews coding solutions with the class
     - students submit assignments through Canvas
+- Note that this course is conducted in-person. In-person lectures will not be recorded using Zoom or any recording tools. However, in the event of emergencies such as COVID-19 or natural disasters, in-person lectures may be recorded via Zoom.
 
 ### Electronic Submission of Assignments
 All assignments must be submitted electronically through Canvas by the specified due dates and times. It is crucial to complete all assigned work—failure to do so will likely result in failing the class.        
@@ -164,6 +165,9 @@ Courses at Teachers College use [the following grading system](https://www.tc.co
 |[73,77)	| C|
 |[70,73)	| C-|
 |<70	| F|
+
+## AI/ChatGPT
+Intellectual honesty is vital for an academic community and for the fair evaluation of your work by teaching staff. All work submitted in this course must be your own or that of your group, completed in accordance with the University’s academic policies. You should not engage in unauthorized collaboration or make use of ChatGPT or any other AI composition software to complete any of the course assignments.
 
 ## Services for Students with Disabilities
 The College will make reasonable accommodations for persons with documented disabilities. Students are encouraged to contact the Office of Access and Services for Individuals with Disabilities for information about registration (166 Thorndike Hall). Services are available only to students who are registered and submit appropriate documentation." As your instructor, I am happy to discuss specific needs with you as well.

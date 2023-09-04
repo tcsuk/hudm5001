@@ -4,7 +4,7 @@ The terminal is the “window” (more or less), while the shell is a program (o
 
 # Summary 
 
-- Shell References: [2. navigating files and directories](https://swcarpentry.github.io/shell-novice/02-filedir/index.html) and [3. working with files and directories](https://swcarpentry.github.io/shell-novice/03-create/index.html) from [software carpentry introduction](https://swcarpentry.github.io/shell-novice/). 
+- Shell References: [2. navigating files and directories](https://swcarpentry.github.io/shell-novice/02-filedir.html#general-syntax-of-a-shell-command) and [3. working with files and directories](https://swcarpentry.github.io/shell-novice/03-create.html). 
 
 - Directory structure, root is `/`
 - Shortcuts: 

@@ -84,7 +84,7 @@ A = Programming Assignments, Q = Quizzes
 | Week 11 | 11/14 |  Python Classes	| A, Q
 | Week 12 | 11/21 |  Unit Testing and Exception Handling | A, Midterm Presentation Slides
 | Week 13 | 11/28 | Jupyter Notebook Presentation (Midterm) | Q
-| Week 14 | 12/5	| Data Visualization: Matplotlib, Scikit-learn, and Plotly   | A, Q
+| Week 14 | 12/5	| Data Visualization: Matplotlib, Plotnine, and Plotly   | A, Q
 | Week 15 | 12/12	| Dash | A, Q
 | Week 16 | 12/19	|  Final Project | Final Report
 

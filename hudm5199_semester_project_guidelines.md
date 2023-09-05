@@ -26,7 +26,7 @@
 -	[Data Portals](http://dataportals.org/)
   
 ### Deliverables:
-**1. WRITTEN REPORT (max of 10 pages) containing (due May 4):**  
+**1. WRITTEN REPORT (max of 10 pages) containing (due Dec 18):**  
 - Abstract: Paragraph outline describing your question, what you did, and what you learned  
 - Introduction: Describe your project scenario. Starting out, what did you hope to accomplish/learn?  
 - Data: Describe your dataset and its significance. Where did you obtain this dataset from?  
@@ -39,7 +39,7 @@
   - Classes: Describe what classes you made. Describe methods in the classes that you wrote. Show a sample run of 1 or 2 of your methods (screen captures or copy-and-paste is fine).
 - Conclusions: Summarize your findings, explain how these results could be used by others (if applicable), and describe ways you could improve your program. You could describe ways you might like to expand the functionality of your program if given more time.
 
-**2. CODE (due May 4)**
+**2. CODE (due Dec 18)**
 - Clearly document, organize, and name your code file or files
 - The files can be in Jupyter Notebooks or Python scripts
 

@@ -44,7 +44,7 @@
 - The files can be in Jupyter Notebooks or Python scripts
 
 **SUBMISSION**
-- By May 4, submit (i) written report and (ii) code files in one Zip file submit through Canvas. 
+- By the deadline, submit (i) written report and (ii) code files in one Zip file submit through Canvas. 
 
 **RUBRIC**  
 

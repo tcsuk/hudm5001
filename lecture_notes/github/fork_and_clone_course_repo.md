@@ -11,7 +11,7 @@ NOTE: *git* is a tool for version controlling software on a machine, while *GitH
 3) Create your GitHub personal access token. This will allow you to authenticate your machine and push updates to a repo.  
    
    Steps:  
-   Settings (top right) -> Developer Settings -> Personal access tokens ->  
+   Settings (top right) -> Developer Settings -> Personal access tokens ->  Tokens (classic) ->
    Generate New Token -> save this token somewhere secure
 
 4) Fork the course repo (click **fork** button at top right of repo page). This will create a separate copy of the repo in your account.

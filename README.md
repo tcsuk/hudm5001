@@ -1,6 +1,6 @@
-## Syllabus: HUDM 5199 – Programming for Data Science  
+## Syllabus: HUDM 5001 – Programming for Data Science  
 
-Fall 2023
+Fall 2024
 
 Lecture Times: Tues 11:00 am - 12:40 pm, in-person  
 Note: All times mentioned throughout the Canvas site and Syllabus are Eastern Time (US)
@@ -13,20 +13,22 @@ Location: GD 277
 Youmi Suk  
 ysuk@tc.columbia.edu 
 
-**Teaching Assistant**  
-Sizheng Zhu   
-sz2686@tc.columbia.edu
+**Course Assistant**  
+Wenxuan Wang  
+ww2681@tc.columbia.edu  
+Xiran Wen  
+xw2969@tc.columbia.edu
 
-When emailing the professor or TAs: Please remember to include "HUDM5199" in your email subject line.
+When emailing the professor or CAs: Please remember to include "HUDM5001" in your email subject line.
 
 ## Course Overview and Learning Outcomes: 
 This course is an introduction to essential programming concepts, structures, and techniques for data science. Topics covered include data types, data structures, control statements, and functions, using the NumPy and Pandas libraries in the programming language Python. The course also covers version control using GitHub and database management using SQLite. Additionally, content on the development of interactive plots and dashboards using Plotly and Dash libraries will be included.
 
 
-At the end of the course, students will
-(1)	Be able to confidently work in an appropriate programming environment (IDE).
-(2)	Correctly describe basic Python language constructs and develop Python codes and write basic programs.
-(3)	Understand the version control concepts and work on a data science project using GitHub and Python.
+At the end of the course, students will  
+(1)	Be able to confidently work in an appropriate programming environment (IDE).  
+(2)	Correctly describe basic Python language constructs and develop Python codes and write basic programs.  
+(3)	Understand the version control concepts and work on a data science project using GitHub and Python.  
 (4)	Create a portfolio showcasing your visualization skills. 
 
 
@@ -67,51 +69,52 @@ Freely available through the library: https://learning.oreilly.com/library/view/
 
 ## Schedule of Topics and Assignments
 
-A = Programming Assignments, Q = Quizzes
+A = Programming Assignments, Q = Take-home Quizzes, "Q" = In-class Quizzes
 
 | Week 	| Date 	| Topics | Assignments
 |:---:	|:---:	|---	|---	| 
-| Week 1 | 9/5 | Syllabus and the Shell | Q, Pre-class Survey
-| Week 2 | 9/12 | GitHub	| A
-| Week 3 | 9/19 | Python Introduction: Data Types, Variables and Expressions | A, Q
-| Week 4 | 9/26 |  Python Introduction: Operators, Input/Output, Numpy	| A
-| Week 5 | 10/3 |  Python Introduction: Pandas 	| A, Q
-| Week 6 | 10/10 |  Pandas, SQLite Database	| A, Q
-| Week 7 | 10/17 |  Control Structures and Iterables | A, Q
-| Week 8 | 10/24 |  Functions, Lambdas, List Comprehensions	| A, Q
-| Week 9 | 10/31 |  Recursion and Running From the Command Line | A, Q
-| Week 10 | 11/7	|  College Holiday (Election Day) |
-| Week 11 | 11/14 |  Python Classes	| A, Q
-| Week 12 | 11/21 |  Unit Testing and Exception Handling | A, Midterm Presentation Slides
-| Week 13 | 11/28 | Jupyter Notebook Presentation (Midterm) | Q
-| Week 14 | 12/5	| Data Visualization: Matplotlib, Plotnine, and Plotly   | A, Q
-| Week 15 | 12/12	| Dash | A, Q
-| Week 16 | 12/19	|  Final Project | Final Report
+| Week 1 | 9/3 | Syllabus and the Shell | Q, Pre-class Survey
+| Week 2 | 9/10 | GitHub	| A
+| Week 3 | 9/17 | Python Introduction: Data Types, Variables and Expressions | A, Q
+| Week 4 | 9/24 |  Python Introduction: Operators, Input/Output, Numpy	| A
+| Week 5 | 10/1 |  Python Introduction: Pandas 	| A, Q
+| Week 6 | 10/8 |  Pandas, SQLite Database	| A, "Q" (10/15)
+| Week 7 | 10/15 |  Control Structures and Iterables | A, Q
+| Week 8 | 10/22 |  Functions, Lambdas, List Comprehensions	| A, Q
+| Week 9 | 10/29 |  Recursion and Running From the Command Line | A, Q
+| Week 10 | 11/5	|  College Holiday (Election Day) |
+| Week 11 | 11/12 |  Python Classes	| A, "Q" (11/19)
+| Week 12 | 11/19 |  Unit Testing and Exception Handling | A, Midterm Presentation Slides
+| Week 13 | 11/26 | Jupyter Notebook Presentation (Midterm) | Q
+| Week 14 | 12/3	| Data Visualization: Matplotlib, Plotnine, and Plotly   | A, Q
+| Week 15 | 12/10	| Dash | A, Q
+| Week 16 | 12/17	|  Final Project | Final Report
 
 ### Important Dates  
-Date of First Live Session: Sep 5, 2023  
-Date of Last Live Session: Dec 12, 2023 (final meeting day)  
-Midterm Presentation Date: Nov 28, 2023  
-Semester Project Due Date: Dec 18, 2023 at 11:59 pm
+Date of First Live Session: Sep 3, 2024  
+Date of Last Live Session: Dec 10, 2024 (final meeting day)  
+In-class Quizzes: Oct 15 and Nov 19  
+Midterm Presentation Date: Nov 26, 2024   
+Semester Project Due Date: Dec 17, 2024 at 11:59 pm
 
 ### Programming Assignments, Quizzes, the Midterm, and the Final Project
 
 *Programming Assignments*: 
 
-The programming assignments consist of focused exercises related to each week’s lectures. You are encouraged to first try to complete the homework by yourself. If you work with others, please make sure that you understand all of the work, and that your final submission is your own work. The assignments will be uploaded on GitHub no later than Tuesday and will be due the following Monday at 11:59pm, EST. The total possible points for each assignment will vary, and specific grading criteria will be provided with each assignment. Our TA will view students’ submissions and make comments on them. Assignments are expected to be completed by due dates. Assignments that are turned in late will be subject to the following penalty: 10% of the total score will be deducted for every day. An assignment with the lowest score will be dropped when computing the final letter grade at the end of the semester.
+The programming assignments consist of focused exercises related to each week’s lectures. You are encouraged to first try to complete the homework by yourself. If you work with others, please make sure that you understand all of the work, and that your final submission is your own work. The assignments will be uploaded on GitHub no later than Tuesday and will be due the following Monday at 11:59pm, EST. The total possible points for each assignment will vary, and specific grading criteria will be provided with each assignment. Our CAs will view students’ submissions and make comments on them. Assignments turned in late will be subject to the following penalty: 10% of the total score will be deducted for each day past the due date. An assignment with the lowest score will be dropped when computing the final letter grade at the end of the semester.
 
 *Quizzes*: 
 
-There will be several quizzes throughout the semester that will assess your knowledge of the various topics. Quizzes are based on the Jupyter Notebooks. All quizzes are mandatory for all students to take. Importantly, the quizzes should be done in a **“closed book”** format: please refrain from consulting any resources including notes, books, the web, devices, or other external media. The same late assignment policy is applied: 10% of the total score will be deducted for every day. If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
+There will be several quizzes throughout the semester that will assess your knowledge of the various topics. Quizzes are based on the Jupyter Notebooks. All quizzes are mandatory for all students to take. Importantly, the quizzes should be done in a **“closed book”** format, which means you should not consult any resources including notes, books, the web, devices, or other external media. Quizzes will be administered either as take-home or in-class tests. In-class quizzes are scheduled for October 15 and November 19 from 11:00-11:20 am. Please arrive on time with your local machine, as late assignments will not be accepted for in-class quizzes except in cases of emergency. For take-home quizzes, a late assignment penalty of 10% of the total score will be applied for each day past the due date. If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements with the instructor at least one month ahead of time. 
 
 *Midterm*: 
 
-The instructor will place you into a group of 3-4 students. Your group will give a presentation about one topic we’ve discussed in the course. The instructor will provide a list of presentation topics, and each group needs to choose one topic. The midterm presentation is a 7-min oral presentation about the chosen topic, and it should consist of explaining one or two concepts and demonstrating them with a few examples. You will also have to make three questions about the chosen topic for the quiz in the midterm week. You will use Jupyter Notebooks for the presentation and all the group members will present together on the presentation date. Be sure to practice beforehand, and time yourselves before you give the midterm presentation.
+The instructor will place you into a group of 3-4 students. Your group will give a presentation about one topic we’ve discussed in the course. The instructor will provide a list of presentation topics, and each group needs to choose one topic. The midterm presentation is a 7-min oral presentation about the chosen topic, and it should consist of explaining one or two concepts and demonstrating them with a few examples. You will also have to make three questions about the chosen topic for the quiz in the midterm week. You will use Jupyter Notebooks or PowerPoint slides for the presentation and all the group members will present together on the presentation date. Be sure to practice beforehand, and time yourselves before you give the midterm presentation.
 
 *Final Project*: 
 
- You will work with other students in the same group as for the midterm presentation. Pick a dataset that you and your group find interesting. Example sources are found below. Feel free to select your data from any other source as appropriate. 
-The final project should form a research question, and perform data pre-processing, data cleaning, outlier removal, and so on to sanitize your data as necessary. Explore your data to reveal interesting/useful information based on your project scenario, and create at least 2 visualizations that you find interesting/useful. Also, do at least one of the following, depending in your interests and background: (i) compute meaningful statistical quantities (e.g., means, correlations), (ii) perform a statistical test on the data (e.g., t-test), or (iii) fit a model to the data (e.g., regression).
+You will work with other students in the same group as for the midterm presentation. Pick a dataset that you and your group find interesting. Example sources are found below. Feel free to select your data from any other source as appropriate.   
+The final project should form a research question, and perform data pre-processing, data cleaning, outlier removal, and so on to sanitize your data as necessary. Explore your data to reveal interesting/useful information based on your project scenario, and create at least 2 visualizations that you find interesting/useful. Also, do at least one of the following, depending in your interests and background: (i) compute meaningful statistical quantities (e.g., means, correlations), (ii) perform a statistical test on the data (e.g., t-test), or (iii) fit a model to the data (e.g., regression).  
 The final report should cover the following sections: abstract, introduction, data, data processing methodology, results, and conclusions. Also, you should submit your Python codes, and make detailed annotations on the codes so that peers can easily reproduce your work. The files can be in Jupyter Notebooks or Python scripts. The maximum number of pages is limited to 10 pages (double spaced; excluding the appendix). The paper should be written as coherently as possible. More details about the final project will be announced on Canvas.
 
 ### Data
@@ -137,12 +140,12 @@ For your final project, you will analyze real data and draw meaningful conclusio
 - Note that this course is conducted in-person. In-person lectures will not be recorded using Zoom or any recording tools. However, in the event of emergencies such as COVID-19 or natural disasters, in-person lectures may be recorded via Zoom.
 
 ### Electronic Submission of Assignments
-All assignments must be submitted electronically through Canvas by the specified due dates and times. It is crucial to complete all assigned work—failure to do so will likely result in failing the class.        
+All assignments must be submitted electronically through Canvas by the specified due dates and times. It is important to complete all assigned work—failure to do so will likely result in failing the class.        
 
 ### Class Management
 Email / Communication    
-- Email is the best way to get in touch with the teaching staff: professor and TA.
-- Please be sure to include the course number ("HUDM5199") in your email subject line when sending email to any of the teaching staff.
+- Email is the best way to get in touch with the teaching staff: professor and CAs.
+- Please be sure to include the course number ("HUDM5001") in your email subject line when sending email to any of the teaching staff.
 
 ## Grading
 
@@ -158,16 +161,14 @@ Courses at Teachers College use [the following grading system](https://www.tc.co
                                             
 |If your weighted total points are ... | Your final letter grade is ... |
 |---	|:---:|
-|[98,100]	| A+|
-|[93,98)	| A|
+|[93,100]	| A|
 |[90,93)	| A-|
-|[87,90)	| B+|
-|[83,87)	| B|
+|[83,90)	| B|
 |[80,83)	| B-|
-|[77,80)	| C+|
-|[73,77)	| C|
+|[73,80)	| C|
 |[70,73)	| C-|
 |<70	| F|
+Note that A+, B+, and C+ will be determined by the class curve and overall performance in the course.
 
 ## AI/ChatGPT
 Intellectual honesty is vital for an academic community and for the fair evaluation of your work by teaching staff. All work submitted in this course must be your own or that of your group, completed in accordance with the University’s academic policies. You should not engage in unauthorized collaboration or make use of ChatGPT or any other AI composition software to complete any of the course assignments.

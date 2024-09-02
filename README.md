@@ -113,8 +113,10 @@ The instructor will place you into a group of 3-4 students. Your group will give
 
 *Final Project*: 
 
-You will work with other students in the same group as for the midterm presentation. Pick a dataset that you and your group find interesting. Example sources are found below. Feel free to select your data from any other source as appropriate.   
+You will work with other students in the same group as for the midterm presentation. Pick a dataset that you and your group find interesting. Example sources are found below. Feel free to select your data from any other source as appropriate.  
+
 The final project should form a research question, and perform data pre-processing, data cleaning, outlier removal, and so on to sanitize your data as necessary. Explore your data to reveal interesting/useful information based on your project scenario, and create at least 2 visualizations that you find interesting/useful. Also, do at least one of the following, depending in your interests and background: (i) compute meaningful statistical quantities (e.g., means, correlations), (ii) perform a statistical test on the data (e.g., t-test), or (iii) fit a model to the data (e.g., regression).  
+
 The final report should cover the following sections: abstract, introduction, data, data processing methodology, results, and conclusions. Also, you should submit your Python codes, and make detailed annotations on the codes so that peers can easily reproduce your work. The files can be in Jupyter Notebooks or Python scripts. The maximum number of pages is limited to 10 pages (double spaced; excluding the appendix). The paper should be written as coherently as possible. More details about the final project will be announced on Canvas.
 
 ### Data
@@ -168,6 +170,7 @@ Courses at Teachers College use [the following grading system](https://www.tc.co
 |[73,80)	| C|
 |[70,73)	| C-|
 |<70	| F|
+
 Note that A+, B+, and C+ will be determined by the class curve and overall performance in the course.
 
 ## AI/ChatGPT

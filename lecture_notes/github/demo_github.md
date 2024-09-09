@@ -4,7 +4,7 @@ We will spend time in class on the following:
 1) forking a repo (this makes a copy in your GitHub account, which you can modify)  
 
 We will fork our course repo and the Apache Spark repo, which live here:
-https://github.com/tcsuk/hudm5199  
+https://github.com/tcsuk/hudm5001  
 https://github.com/apache/spark
 
 2) cloning the forked repo to local machine (this copies the fork to your local)
@@ -16,7 +16,7 @@ https://github.com/apache/spark
 
 **Committing Files**  
 
-With our course repo: https://github.com/tcsuk/hudm5199
+With our course repo: https://github.com/tcsuk/hudm5001
 
 First, to accomplish steps 3-5, it's preferable to use the command line.  
 You'll want to open a terminal (in Windows, PowerShell is a good option).  
@@ -46,7 +46,7 @@ You should be able to now see the commit in the GitHub repo.
 
 **Syncing your Fork to the Original Repo and Pulling Changes with `git pull`**
 
-With our course repo: https://github.com/tcsuk/hudm5199
+With our course repo: https://github.com/tcsuk/hudm5001
 
 When you want to sync your repo to the original repo, follow these steps:
 1) From the forked repo in your GitHub account, choose the "Sync fork" dropdown. Review the details about the commits from the original repo, then click "Update branch." This syncs the fork with the original.

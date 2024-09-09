@@ -1,4 +1,4 @@
-### Instructions for Forking and Cloning HUDM5199 Course Repo     
+### Instructions for Forking and Cloning HUDM5001 Course Repo     
 
 You will do these things:
 1) Check if you have *git* on your machine by opening a terminal and typing `git`.    

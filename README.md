@@ -70,7 +70,7 @@ Freely available through the library: https://learning.oreilly.com/library/view/
 
 ## Schedule of Topics and Assignments
 
-A = Programming Assignments, Q = Take-home Quizzes, "Q" = In-class Quizzes
+A = Programming Assignments, Q = Take-Home Quizzes, "Q" = In-Class Quizzes
 
 | Week 	| Date 	| Topics | Assignments
 |:---:	|:---:	|---	|---	| 

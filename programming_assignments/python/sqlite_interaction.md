@@ -1,5 +1,5 @@
 ### Programming Assignment: SQLite Interaction
-Last updated: Jan 15, 2023  
+Last updated: Oct 8, 2024  
 
 **Instructions**  
 Follow the instructions below. Copy all questions, code, and output into a document and submit through Canvas.  
@@ -26,9 +26,9 @@ The format needs to be a list of tuples.
 6) (1 PT) Write and execute a query that filters out some of the inserted records based on a condition. Print the result.
 
 7) (1 PT) Write and execute a query that uses a GROUP BY clause to aggregate on the categorical field. For example, you might compute the number of records
-          for each level of industry (e.g., TECH  2, CONSUMER GOODS 3). Print the result.
+          for each level of industry (e.g., TECH  2, CONSUMER GOODS 3). Print the result. (Hint: [SQLite GROUP BY](https://www.sqlitetutorial.net/sqlite-group-by/))
 
-8) (1 PT) Based on the results from one of the queries, load the results into a pandas dataframe. Print the dataframe.
+9) (1 PT) Based on the results from one of the queries, load the results into a pandas dataframe. Print the dataframe.
 
 ---  
 

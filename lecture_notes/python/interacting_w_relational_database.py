@@ -25,10 +25,10 @@ Download SQLite here:
 https://www.sqlite.org/download.html
 
    Windows users will install:
-   sqlite-tools-win32-x86-3400100.zip
+   sqlite-tools-win32-x86-3460100.zip
 
    Mac users will install:
-   sqlite-tools-osx-x86-3400100.zip
+   sqlite-tools-osx-x86-3460100.zip
 
 After install, launch terminal (Windows users use CMD)
 From terminal, cd to sqlite
